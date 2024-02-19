@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <form action="">
+      Name:
+      <input type="text"/>
+      <br/>
+      Email:
+      <input type= "email" id="email" name="email" />
+      <br/>
+      Password:
+      <input type="password" id="password" name="password" />
+      <br/>
+      <input type="Submit" value="Submit"/>
+    </form>
+  </body>
+</html>
